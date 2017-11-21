@@ -1,0 +1,352 @@
+{
+    "mundo": {
+        "continentes": {
+            "Africa": {
+
+            },
+            "America": {
+                "Paises": [{
+                        "Nombre": "Antigua y Barbuda",
+                        "Nombre oficial": "Antigua y Barbuda",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Argentina",
+                        "Nombre oficial": "República Argentina",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Bahamas",
+                        "Nombre oficial": "Mancomunidad de las Bahamas",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Barbados",
+                        "Nombre oficial": "Barbados",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Belice",
+                        "Nombre oficial": "Belice",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Bolivia",
+                        "Nombre oficial": "Estado Plurinacional de Bolivia",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Brasil",
+                        "Nombre oficial": "República Federativa de Brasil",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Canadá",
+                        "Nombre oficial": "Canadá",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Chile",
+                        "Nombre oficial": "República de Chile",
+                        "Codigo": "56",
+                        "Capital": "Santiago de Chile",
+                        "Abreviatura": "CL",
+                        "Regiones": [{
+                                "I Region de Tarapacá": [{
+                                    "Provincias": [{
+
+                                    }]
+                                }],
+                                "Codigo": ""
+
+                            },
+                            {
+                                "II Region de Antofagasta": [{
+                                    "Provincias": [{
+
+                                    }]
+                                }],
+                                "Codigo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "Nombre": "Colombia",
+                        "Nombre oficial": "República de Colombia",
+                        "Codigo": "",
+                        "Abreviatura": "CO",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Costa Rica",
+                        "Nombre oficial": "República de Costa Rica",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Cuba",
+                        "Nombre oficial": "República de Cuba",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Dominica",
+                        "Nombre oficial": "Mancomunidad de Dominica",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Ecuador",
+                        "Nombre oficial": "República del Ecuador",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "El Salvador",
+                        "Nombre oficial": "República de El Salvador",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Estados Unidos",
+                        "Nombre oficial": "Estados Unidos de América",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Granada",
+                        "Nombre oficial": "Granada",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Guatemala",
+                        "Nombre oficial": "República de Guatemala",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Guyana",
+                        "Nombre oficial": "República Cooperativa de Guyana",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Haití",
+                        "Nombre oficial": "República de Haití",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Honduras",
+                        "Nombre oficial": "República de Honduras",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Jamaica",
+                        "Nombre oficial": "Jamaica",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "México",
+                        "Nombre oficial": "Estados Unidos Mexicanos",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Nicaragua",
+                        "Nombre oficial": "República de Nicaragua",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Panamá",
+                        "Nombre oficial": "República de Panamá",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Paraguay",
+                        "Nombre oficial": "República del Paraguay",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Perú",
+                        "Nombre oficial": "República del Perú",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "República Dominicana",
+                        "Nombre oficial": "República Dominicana",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "San Cristóbal y Nieves",
+                        "Nombre oficial": "Federación de San Cristóbal y Nieves",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "San Vicente y las Granadinas",
+                        "Nombre oficial": "San Vicente y las Granadinas",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Santa Lucía",
+                        "Nombre oficial": "Santa Lucía",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Surinam",
+                        "Nombre oficial": "República de Surinam",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Trinidad y Tobago",
+                        "Nombre oficial": "República de Trinidad y Tobago",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Uruguay",
+                        "Nombre oficial": "República Oriental del Uruguay",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Venezuela",
+                        "Nombre oficial": "República Bolivariana de Venezuela",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    }
+                ]
+            },
+            "Asia": {
+
+            },
+            "Europa": {
+
+            },
+            "Oceania": {
+
+            }
+        }
+    }
+}
