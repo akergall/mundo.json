@@ -345,7 +345,134 @@
 
             },
             "Oceania": {
+                "paises":[
+                    {
+                        "Nombre":"Australia",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
 
+                        }]
+                    },
+                    {
+                        "Nombre":"Micronesia",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Fiji",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Islas Marshall",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Islas Salomon",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Kiribati",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Nauru",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Nueva Zelanda",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Palau",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Papua Nueva Guinea",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Samoa",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Tonga",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Tuvalu",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Vanatu",
+                        "Nombre oficial": "",
+                        "Codigo": "",
+                        "Abreviatura": "",
+                        "Regiones": [{
+
+                        }]
+                    }
+                ]
             }
         }
     }
