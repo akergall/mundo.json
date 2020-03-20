@@ -8,8 +8,8 @@
                 "Paises": [{
                         "Nombre": "Antigua y Barbuda",
                         "Nombre oficial": "Antigua y Barbuda",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1268",
+                        "Abreviatura": "ATG",
                         "Regiones": [{
 
                         }]
@@ -17,8 +17,8 @@
                     {
                         "Nombre": "Argentina",
                         "Nombre oficial": "República Argentina",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+54",
+                        "Abreviatura": "ARG",
                         "Regiones": [{
 
                         }]
@@ -26,8 +26,8 @@
                     {
                         "Nombre": "Bahamas",
                         "Nombre oficial": "Mancomunidad de las Bahamas",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1242",
+                        "Abreviatura": "BHS",
                         "Regiones": [{
 
                         }]
@@ -35,8 +35,8 @@
                     {
                         "Nombre": "Barbados",
                         "Nombre oficial": "Barbados",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1246",
+                        "Abreviatura": "BRB",
                         "Regiones": [{
 
                         }]
@@ -44,8 +44,8 @@
                     {
                         "Nombre": "Belice",
                         "Nombre oficial": "Belice",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+501",
+                        "Abreviatura": "BLZ",
                         "Regiones": [{
 
                         }]
@@ -53,8 +53,8 @@
                     {
                         "Nombre": "Bolivia",
                         "Nombre oficial": "Estado Plurinacional de Bolivia",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+591",
+                        "Abreviatura": "BOL",
                         "Regiones": [{
 
                         }]
@@ -62,8 +62,8 @@
                     {
                         "Nombre": "Brasil",
                         "Nombre oficial": "República Federativa de Brasil",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+55",
+                        "Abreviatura": "BRA",
                         "Regiones": [{
 
                         }]
@@ -71,8 +71,8 @@
                     {
                         "Nombre": "Canadá",
                         "Nombre oficial": "Canadá",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1",
+                        "Abreviatura": "CAN",
                         "Regiones": [{
 
                         }]
@@ -80,9 +80,9 @@
                     {
                         "Nombre": "Chile",
                         "Nombre oficial": "República de Chile",
-                        "Codigo": "56",
+                        "Codigo": "+56",
                         "Capital": "Santiago de Chile",
-                        "Abreviatura": "CL",
+                        "Abreviatura": "CHL",
                         "Regiones": [{
                                 "I Region de Tarapacá": [{
                                     "Provincias": [{
@@ -105,8 +105,8 @@
                     {
                         "Nombre": "Colombia",
                         "Nombre oficial": "República de Colombia",
-                        "Codigo": "",
-                        "Abreviatura": "CO",
+                        "Codigo": "+57",
+                        "Abreviatura": "COL",
                         "Regiones": [{
 
                         }]
@@ -114,8 +114,8 @@
                     {
                         "Nombre": "Costa Rica",
                         "Nombre oficial": "República de Costa Rica",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+506",
+                        "Abreviatura": "CRI",
                         "Regiones": [{
 
                         }]
@@ -123,8 +123,8 @@
                     {
                         "Nombre": "Cuba",
                         "Nombre oficial": "República de Cuba",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+53",
+                        "Abreviatura": "CUB",
                         "Regiones": [{
 
                         }]
@@ -132,8 +132,8 @@
                     {
                         "Nombre": "Dominica",
                         "Nombre oficial": "Mancomunidad de Dominica",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+767",
+                        "Abreviatura": "DMA",
                         "Regiones": [{
 
                         }]
@@ -141,8 +141,8 @@
                     {
                         "Nombre": "Ecuador",
                         "Nombre oficial": "República del Ecuador",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+593",
+                        "Abreviatura": "ECU",
                         "Regiones": [{
 
                         }]
@@ -150,8 +150,8 @@
                     {
                         "Nombre": "El Salvador",
                         "Nombre oficial": "República de El Salvador",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+503",
+                        "Abreviatura": "SLV",
                         "Regiones": [{
 
                         }]
@@ -159,7 +159,7 @@
                     {
                         "Nombre": "Estados Unidos",
                         "Nombre oficial": "Estados Unidos de América",
-                        "Codigo": "",
+                        "Codigo": "+1",
                         "Abreviatura": "",
                         "Regiones": [{
 
@@ -168,8 +168,8 @@
                     {
                         "Nombre": "Granada",
                         "Nombre oficial": "Granada",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1473",
+                        "Abreviatura": "GRD",
                         "Regiones": [{
 
                         }]
@@ -177,8 +177,8 @@
                     {
                         "Nombre": "Guatemala",
                         "Nombre oficial": "República de Guatemala",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+502",
+                        "Abreviatura": "GTM",
                         "Regiones": [{
 
                         }]
@@ -186,8 +186,8 @@
                     {
                         "Nombre": "Guyana",
                         "Nombre oficial": "República Cooperativa de Guyana",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+592",
+                        "Abreviatura": "GUY",
                         "Regiones": [{
 
                         }]
@@ -195,8 +195,8 @@
                     {
                         "Nombre": "Haití",
                         "Nombre oficial": "República de Haití",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+509",
+                        "Abreviatura": "HTI",
                         "Regiones": [{
 
                         }]
@@ -204,8 +204,8 @@
                     {
                         "Nombre": "Honduras",
                         "Nombre oficial": "República de Honduras",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+504",
+                        "Abreviatura": "HND",
                         "Regiones": [{
 
                         }]
@@ -213,8 +213,8 @@
                     {
                         "Nombre": "Jamaica",
                         "Nombre oficial": "Jamaica",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+876",
+                        "Abreviatura": "JAM",
                         "Regiones": [{
 
                         }]
@@ -222,8 +222,8 @@
                     {
                         "Nombre": "México",
                         "Nombre oficial": "Estados Unidos Mexicanos",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+52",
+                        "Abreviatura": "MEX",
                         "Regiones": [{
 
                         }]
@@ -231,8 +231,8 @@
                     {
                         "Nombre": "Nicaragua",
                         "Nombre oficial": "República de Nicaragua",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+505",
+                        "Abreviatura": "NIC",
                         "Regiones": [{
 
                         }]
@@ -240,8 +240,8 @@
                     {
                         "Nombre": "Panamá",
                         "Nombre oficial": "República de Panamá",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+507",
+                        "Abreviatura": "PAN",
                         "Regiones": [{
 
                         }]
@@ -249,8 +249,8 @@
                     {
                         "Nombre": "Paraguay",
                         "Nombre oficial": "República del Paraguay",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+595",
+                        "Abreviatura": "PRY",
                         "Regiones": [{
 
                         }]
@@ -258,8 +258,8 @@
                     {
                         "Nombre": "Perú",
                         "Nombre oficial": "República del Perú",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+51",
+                        "Abreviatura": "PER",
                         "Regiones": [{
 
                         }]
@@ -267,8 +267,8 @@
                     {
                         "Nombre": "República Dominicana",
                         "Nombre oficial": "República Dominicana",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+809",
+                        "Abreviatura": "DOM",
                         "Regiones": [{
 
                         }]
@@ -276,8 +276,8 @@
                     {
                         "Nombre": "San Cristóbal y Nieves",
                         "Nombre oficial": "Federación de San Cristóbal y Nieves",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1869",
+                        "Abreviatura": "KNA",
                         "Regiones": [{
 
                         }]
@@ -285,8 +285,8 @@
                     {
                         "Nombre": "San Vicente y las Granadinas",
                         "Nombre oficial": "San Vicente y las Granadinas",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1784",
+                        "Abreviatura": "VCT",
                         "Regiones": [{
 
                         }]
@@ -294,8 +294,8 @@
                     {
                         "Nombre": "Santa Lucía",
                         "Nombre oficial": "Santa Lucía",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+1758",
+                        "Abreviatura": "LCA",
                         "Regiones": [{
 
                         }]
@@ -303,8 +303,8 @@
                     {
                         "Nombre": "Surinam",
                         "Nombre oficial": "República de Surinam",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+597",
+                        "Abreviatura": "SUR",
                         "Regiones": [{
 
                         }]
@@ -312,8 +312,8 @@
                     {
                         "Nombre": "Trinidad y Tobago",
                         "Nombre oficial": "República de Trinidad y Tobago",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+868",
+                        "Abreviatura": "TTO",
                         "Regiones": [{
 
                         }]
@@ -321,8 +321,8 @@
                     {
                         "Nombre": "Uruguay",
                         "Nombre oficial": "República Oriental del Uruguay",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+598",
+                        "Abreviatura": "URY",
                         "Regiones": [{
 
                         }]
@@ -330,8 +330,8 @@
                     {
                         "Nombre": "Venezuela",
                         "Nombre oficial": "República Bolivariana de Venezuela",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Codigo": "+58",
+                        "Abreviatura": "VEN",
                         "Regiones": [{
 
                         }]
@@ -345,7 +345,134 @@
 
             },
             "Oceania": {
+                "paises":[
+                    {
+                        "Nombre":"Australia",
+                        "Nombre oficial": "Mancomunidad de Australia",
+                        "Codigo": "+61",
+                        "Abreviatura": "AUS",
+                        "Regiones": [{
 
+                        }]
+                    },
+                    {
+                        "Nombre":"Micronesia",
+                        "Nombre oficial": "Estados Federados de Micronesia",
+                        "Codigo": "+691",
+                        "Abreviatura": "FSM",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Fiji",
+                        "Nombre oficial": "República de Fiji",
+                        "Codigo": "+679",
+                        "Abreviatura": "FJI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Islas Marshall",
+                        "Nombre oficial": "República de las Islas Marshall ",
+                        "Codigo": "+692",
+                        "Abreviatura": "MHL",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Islas Salomón",
+                        "Nombre oficial": "Islas Salomón",
+                        "Codigo": "+677",
+                        "Abreviatura": "SLB",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Kiribati",
+                        "Nombre oficial": "República de Kiribati",
+                        "Codigo": "+686",
+                        "Abreviatura": "KIR",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Nauru",
+                        "Nombre oficial": "República de Nauru",
+                        "Codigo": "+674",
+                        "Abreviatura": "NRU",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Nueva Zelanda",
+                        "Nombre oficial": "Nueva Zelanda",
+                        "Codigo": "+64",
+                        "Abreviatura": "NZL",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Palaos",
+                        "Nombre oficial": "República de Palaos",
+                        "Codigo": "+680",
+                        "Abreviatura": "PLW",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Papúa Nueva Guinea",
+                        "Nombre oficial": "Estado Independiente de Papúa Nueva Guinea",
+                        "Codigo": "+675",
+                        "Abreviatura": "PNG",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Samoa",
+                        "Nombre oficial": "Estado Independiente de Samoa",
+                        "Codigo": "+685",
+                        "Abreviatura": "WSM",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Tonga",
+                        "Nombre oficial": "Reino de Tonga",
+                        "Codigo": "+676",
+                        "Abreviatura": "TON",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Tuvalu",
+                        "Nombre oficial": "Tuvalu",
+                        "Codigo": "+688",
+                        "Abreviatura": "TUV",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre":"Vanatu",
+                        "Nombre oficial": "República de Vanuatu",
+                        "Codigo": "+678",
+                        "Abreviatura": "VUT",
+                        "Regiones": [{
+
+                        }]
+                    }
+                ]
             }
         }
     }
