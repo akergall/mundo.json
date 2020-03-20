@@ -348,126 +348,126 @@
                 "paises":[
                     {
                         "Nombre":"Australia",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Mancomunidad de Australia",
+                        "Codigo": "+61",
+                        "Abreviatura": "AUS",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Micronesia",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Estados Federados de Micronesia",
+                        "Codigo": "+691",
+                        "Abreviatura": "FSM",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Fiji",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "República de Fiji",
+                        "Codigo": "+679",
+                        "Abreviatura": "FJI",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Islas Marshall",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "República de las Islas Marshall ",
+                        "Codigo": "+692",
+                        "Abreviatura": "MHL",
                         "Regiones": [{
 
                         }]
                     },
                     {
-                        "Nombre":"Islas Salomon",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre":"Islas Salomón",
+                        "Nombre oficial": "Islas Salomón",
+                        "Codigo": "+677",
+                        "Abreviatura": "SLB",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Kiribati",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "República de Kiribati",
+                        "Codigo": "+686",
+                        "Abreviatura": "KIR",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Nauru",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "República de Nauru",
+                        "Codigo": "+674",
+                        "Abreviatura": "NRU",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Nueva Zelanda",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Nueva Zelanda",
+                        "Codigo": "+64",
+                        "Abreviatura": "NZL",
                         "Regiones": [{
 
                         }]
                     },
                     {
-                        "Nombre":"Palau",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre":"Palaos",
+                        "Nombre oficial": "República de Palaos",
+                        "Codigo": "+680",
+                        "Abreviatura": "PLW",
                         "Regiones": [{
 
                         }]
                     },
                     {
-                        "Nombre":"Papua Nueva Guinea",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre":"Papúa Nueva Guinea",
+                        "Nombre oficial": "Estado Independiente de Papúa Nueva Guinea",
+                        "Codigo": "+675",
+                        "Abreviatura": "PNG",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Samoa",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Estado Independiente de Samoa",
+                        "Codigo": "+685",
+                        "Abreviatura": "WSM",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Tonga",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Reino de Tonga",
+                        "Codigo": "+676",
+                        "Abreviatura": "TON",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Tuvalu",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "Tuvalu",
+                        "Codigo": "+688",
+                        "Abreviatura": "TUV",
                         "Regiones": [{
 
                         }]
                     },
                     {
                         "Nombre":"Vanatu",
-                        "Nombre oficial": "",
-                        "Codigo": "",
-                        "Abreviatura": "",
+                        "Nombre oficial": "República de Vanuatu",
+                        "Codigo": "+678",
+                        "Abreviatura": "VUT",
                         "Regiones": [{
 
                         }]
