@@ -2,7 +2,15 @@
     "mundo": {
         "continentes": {
             "Africa": {
+                "Paises": [{
+                    "Nombre": "ANGOLA",
+                    "Nombre oficial": "República de Angola",
+                    "Codigo": "+244",
+                    "Abreviatura": "AGO",
+                    "Regiones": [{
 
+                    }]
+                }]
             },
             "America": {
                 "Paises": [{
@@ -345,9 +353,8 @@
 
             },
             "Oceania": {
-                "paises":[
-                    {
-                        "Nombre":"Australia",
+                "paises": [{
+                        "Nombre": "Australia",
                         "Nombre oficial": "Mancomunidad de Australia",
                         "Codigo": "+61",
                         "Abreviatura": "AUS",
@@ -356,7 +363,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Micronesia",
+                        "Nombre": "Micronesia",
                         "Nombre oficial": "Estados Federados de Micronesia",
                         "Codigo": "+691",
                         "Abreviatura": "FSM",
@@ -365,7 +372,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Fiji",
+                        "Nombre": "Fiji",
                         "Nombre oficial": "República de Fiji",
                         "Codigo": "+679",
                         "Abreviatura": "FJI",
@@ -374,7 +381,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Islas Marshall",
+                        "Nombre": "Islas Marshall",
                         "Nombre oficial": "República de las Islas Marshall ",
                         "Codigo": "+692",
                         "Abreviatura": "MHL",
@@ -383,7 +390,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Islas Salomón",
+                        "Nombre": "Islas Salomón",
                         "Nombre oficial": "Islas Salomón",
                         "Codigo": "+677",
                         "Abreviatura": "SLB",
@@ -392,7 +399,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Kiribati",
+                        "Nombre": "Kiribati",
                         "Nombre oficial": "República de Kiribati",
                         "Codigo": "+686",
                         "Abreviatura": "KIR",
@@ -401,7 +408,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Nauru",
+                        "Nombre": "Nauru",
                         "Nombre oficial": "República de Nauru",
                         "Codigo": "+674",
                         "Abreviatura": "NRU",
@@ -410,7 +417,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Nueva Zelanda",
+                        "Nombre": "Nueva Zelanda",
                         "Nombre oficial": "Nueva Zelanda",
                         "Codigo": "+64",
                         "Abreviatura": "NZL",
@@ -419,7 +426,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Palaos",
+                        "Nombre": "Palaos",
                         "Nombre oficial": "República de Palaos",
                         "Codigo": "+680",
                         "Abreviatura": "PLW",
@@ -428,7 +435,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Papúa Nueva Guinea",
+                        "Nombre": "Papúa Nueva Guinea",
                         "Nombre oficial": "Estado Independiente de Papúa Nueva Guinea",
                         "Codigo": "+675",
                         "Abreviatura": "PNG",
@@ -437,7 +444,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Samoa",
+                        "Nombre": "Samoa",
                         "Nombre oficial": "Estado Independiente de Samoa",
                         "Codigo": "+685",
                         "Abreviatura": "WSM",
@@ -446,7 +453,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Tonga",
+                        "Nombre": "Tonga",
                         "Nombre oficial": "Reino de Tonga",
                         "Codigo": "+676",
                         "Abreviatura": "TON",
@@ -455,7 +462,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Tuvalu",
+                        "Nombre": "Tuvalu",
                         "Nombre oficial": "Tuvalu",
                         "Codigo": "+688",
                         "Abreviatura": "TUV",
@@ -464,7 +471,7 @@
                         }]
                     },
                     {
-                        "Nombre":"Vanatu",
+                        "Nombre": "Vanatu",
                         "Nombre oficial": "República de Vanuatu",
                         "Codigo": "+678",
                         "Abreviatura": "VUT",
