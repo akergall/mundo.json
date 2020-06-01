@@ -3,14 +3,456 @@
         "continentes": {
             "Africa": {
                 "Paises": [{
-                    "Nombre": "ANGOLA",
-                    "Nombre oficial": "República de Angola",
-                    "Codigo": "+244",
-                    "Abreviatura": "AGO",
-                    "Regiones": [{
+                        "Nombre": "Angola",
+                        "Nombre oficial": "República de Angola",
+                        "Codigo": "+244",
+                        "Abreviatura": "AGO",
+                        "Regiones": [{
 
-                    }]
-                }]
+                        }]
+                    },
+                    {
+                        "Nombre": "Argelia",
+                        "Nombre oficial": "República Argelina Democrática",
+                        "Codigo": "+213",
+                        "Abreviatura": "DZA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Benin",
+                        "Nombre oficial": "República Popular de Benín",
+                        "Codigo": "+229",
+                        "Abreviatura": "BEN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Botswana",
+                        "Nombre oficial": "República de Botswana",
+                        "Codigo": "+267",
+                        "Abreviatura": "BWA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Burkina Faso",
+                        "Nombre oficial": "Burkina Faso",
+                        "Codigo": "+226",
+                        "Abreviatura": "BFA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Burundi",
+                        "Nombre oficial": "República de Burundi",
+                        "Codigo": "+257",
+                        "Abreviatura": "BDI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Cabo Verde",
+                        "Nombre oficial": "República de Cabo Verde",
+                        "Codigo": "+238",
+                        "Abreviatura": "CPV",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Camerun",
+                        "Nombre oficial": "República de Camerun",
+                        "Codigo": "+237",
+                        "Abreviatura": "CMR",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "CentroAfricana",
+                        "Nombre oficial": "República Centroafricana",
+                        "Codigo": "+236",
+                        "Abreviatura": "AGO",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Comoros",
+                        "Nombre oficial": "República de Angola",
+                        "Codigo": "+269",
+                        "Abreviatura": "COM",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Costa de Marfil",
+                        "Nombre oficial": "República de Angola",
+                        "Codigo": "+225",
+                        "Abreviatura": "RCA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Chad",
+                        "Nombre oficial": "República del Chad",
+                        "Codigo": "+235",
+                        "Abreviatura": "TCD",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Egipto",
+                        "Nombre oficial": "República Árabe de Egipto",
+                        "Codigo": "+20",
+                        "Abreviatura": "EGY",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Eritrea",
+                        "Nombre oficial": "Estado de Eritrea",
+                        "Codigo": "+291",
+                        "Abreviatura": "ERI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Etiopia",
+                        "Nombre oficial": "República Democrática Federal de Etiopía",
+                        "Codigo": "+251",
+                        "Abreviatura": "ETH",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Gabon",
+                        "Nombre oficial": "República Gabonesa",
+                        "Codigo": "+241",
+                        "Abreviatura": "GAB",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Gambia",
+                        "Nombre oficial": "República de Gambia",
+                        "Codigo": "+220",
+                        "Abreviatura": "GMB",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Ghana",
+                        "Nombre oficial": "República de Ghana",
+                        "Codigo": "+233",
+                        "Abreviatura": "GHA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Guinea",
+                        "Nombre oficial": "República de Guinea",
+                        "Codigo": "+224",
+                        "Abreviatura": "GIN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Kenia",
+                        "Nombre oficial": "República de Kenia",
+                        "Codigo": "+254",
+                        "Abreviatura": "KEN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Lesoto",
+                        "Nombre oficial": "Reino de Lesoto ",
+                        "Codigo": "+266",
+                        "Abreviatura": "LSO",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Liberia",
+                        "Nombre oficial": "República de Liberia",
+                        "Codigo": "+231",
+                        "Abreviatura": "LBR",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Libya",
+                        "Nombre oficial": "Estado de Libia",
+                        "Codigo": "+218",
+                        "Abreviatura": "LBY",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Madagascar",
+                        "Nombre oficial": "República de Madagascar",
+                        "Codigo": "+261",
+                        "Abreviatura": "MDG",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Malawi",
+                        "Nombre oficial": "República de Malawi",
+                        "Codigo": "+265",
+                        "Abreviatura": "MWI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Mali",
+                        "Nombre oficial": "República de Mali",
+                        "Codigo": "+223",
+                        "Abreviatura": "MLI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Marruecos",
+                        "Nombre oficial": "Reino de Marruecos",
+                        "Codigo": "+212",
+                        "Abreviatura": "MAR ",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Mauricio",
+                        "Nombre oficial": "República de Mauricio",
+                        "Codigo": "+230",
+                        "Abreviatura": "MUS",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Mauritania",
+                        "Nombre oficial": "República Islámica de Mauritania",
+                        "Codigo": "+222",
+                        "Abreviatura": "MRT",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Mozambique",
+                        "Nombre oficial": "República de Mozambique",
+                        "Codigo": "+258",
+                        "Abreviatura": "MOZ",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Namibia",
+                        "Nombre oficial": "República de Namibia",
+                        "Codigo": "+264",
+                        "Abreviatura": "NAM",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Niger",
+                        "Nombre oficial": "República de Niger",
+                        "Codigo": "+227",
+                        "Abreviatura": "NER",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Ruanda",
+                        "Nombre oficial": "República de Ruanda",
+                        "Codigo": "+250",
+                        "Abreviatura": "RWA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Congo",
+                        "Nombre oficial": "República del Congo",
+                        "Codigo": "+243",
+                        "Abreviatura": "COG",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Santo Tome y Principe",
+                        "Nombre oficial": "República Democrática de Santo Tomé y Príncipe",
+                        "Codigo": "+239",
+                        "Abreviatura": "STP",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Senegal",
+                        "Nombre oficial": "República de Senegal",
+                        "Codigo": "+221",
+                        "Abreviatura": "SEN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Seychelles",
+                        "Nombre oficial": "República de Seychelles",
+                        "Codigo": "+248",
+                        "Abreviatura": "SYC",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Sierra Leona",
+                        "Nombre oficial": "República de Sierra Leona",
+                        "Codigo": "+232",
+                        "Abreviatura": "SLE",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Somalia",
+                        "Nombre oficial": "República Somalí",
+                        "Codigo": "+252",
+                        "Abreviatura": "SOM",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Sudafrica",
+                        "Nombre oficial": "República de Sudafrica",
+                        "Codigo": "+27",
+                        "Abreviatura": "ZAF",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Sudan",
+                        "Nombre oficial": "República del Sudan",
+                        "Codigo": "+249",
+                        "Abreviatura": "SDN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Sudan del sur",
+                        "Nombre oficial": "República de Sudán del Sur",
+                        "Codigo": "+211",
+                        "Abreviatura": "SDD",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Suazilandia",
+                        "Nombre oficial": "Reino de Suazilandia",
+                        "Codigo": "+268",
+                        "Abreviatura": "SWZ",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Tanzania",
+                        "Nombre oficial": "República  Unida de Tanzania",
+                        "Codigo": "+255",
+                        "Abreviatura": "TZA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Tunez",
+                        "Nombre oficial": "República Tunecina",
+                        "Codigo": "+216",
+                        "Abreviatura": "TUN",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Togo",
+                        "Nombre oficial": "República de Togo",
+                        "Codigo": "+228",
+                        "Abreviatura": "TGO",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Uganda",
+                        "Nombre oficial": "República de Uganda",
+                        "Codigo": "+256",
+                        "Abreviatura": "UGA",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Yibuti",
+                        "Nombre oficial": "República de Yibuti",
+                        "Codigo": "+253",
+                        "Abreviatura": "DJI",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Zambia",
+                        "Nombre oficial": "República de Zambia",
+                        "Codigo": "+260",
+                        "Abreviatura": "ZMB",
+                        "Regiones": [{
+
+                        }]
+                    },
+                    {
+                        "Nombre": "Zimbabue",
+                        "Nombre oficial": "República de Zimbabue",
+                        "Codigo": "+263",
+                        "Abreviatura": "ZWE",
+                        "Regiones": [{
+
+                        }]
+                    }
+                ]
             },
             "America": {
                 "Paises": [{
